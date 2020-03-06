@@ -1,1 +1,5 @@
 name,ring,quadrant,isNew,description
+Go,Adopt,languages-and-frameworks,FALSE,"Go is an open source programming language that makes it easy to build simple, reliable, and efficient software."
+Visual Studio Code,Trial,Tools,"Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications."
+AWS DevOps,Trial,Platforms,"AWS DevOps provides services to simplify provisioning and managing infrastructure, deploying application code, automating software release processes, and monitoring your application and infrastructure performance."
+Microservices,Adopt,Techniques,"Microservices arranges an application as a collection of loosely coupled services."
