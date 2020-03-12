@@ -5,5 +5,5 @@ AWS DevOps,Trial,Platforms,FALSE,"AWS DevOps provides services to simplify provi
 Microservices,Adopt,Techniques,FALSE,"Microservices arranges an application as a collection of loosely coupled services."
 Yocto,Adopt,Tools,FALSE,"The Yocto Project (YP) is an open source collaboration project that helps developers create custom Linux-based systems regardless of the hardware architecture."
 SQLite,Adopt,Tools,FALSE,"SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine."
-Gstreamer,Adopt,languages-and-frameworks,FALSE,"Gstreamer is an open source multimedia framework which allows handling a wide range of media content  from simple Ogg/Vorbis playback, audio/video streaming to complex audio (mixing) and video (non-linear editing) processing."
+GStreamer,Adopt,languages-and-frameworks,FALSE,"GStreamer is an open source multimedia framework which allows handling a wide range of media content from simple Ogg/Vorbis playback, audio/video streaming to complex audio (mixing) and video (non-linear editing) processing."
 
