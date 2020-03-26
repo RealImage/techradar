@@ -8,4 +8,6 @@ Provides data for Qube's TechRadar
 The Radar captures the Tools, Techniques, Platforms and Languages that are recommended for use within Qube. The Radar has two categorizing elements: the quadrants and the rings. To know more about quadrants and rings, please refer: [the Radar Portal](https://www.thoughtworks.com/radar/faq#quadrants).
 
 # How to Contribute
-Anyone can create a branch and raise a PR to make changes.
+Anyone can create a branch and raise a PR to make changes.  But do go through the following notes:
+- There should be only one new-line character at the end of the csv file
+- Every new entry should be added against one of the existing 4 quadrants & rings
