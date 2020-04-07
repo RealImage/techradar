@@ -6,3 +6,4 @@ Microservices,Adopt,Techniques,FALSE,"Microservices arranges an application as a
 Yocto,Adopt,Tools,FALSE,"The Yocto Project (YP) is an open source collaboration project that helps developers create custom Linux-based systems regardless of the hardware architecture."
 SQLite,Adopt,Tools,FALSE,"SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine."
 GStreamer,Adopt,languages-and-frameworks,FALSE,"GStreamer is an open source multimedia framework which allows handling a wide range of media content from simple Ogg/Vorbis playback, audio/video streaming to complex audio (mixing) and video (non-linear editing) processing."
+Gatsby,Assess,languages-and-frameworks,TRUE,"Gatsby is an open source framework based on React for creating static websites and apps.  Could be useful for creating developer documentation portal and FAQ portals for our products."
